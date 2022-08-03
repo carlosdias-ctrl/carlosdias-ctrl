@@ -15,8 +15,6 @@
   alt="carlosdias- ctrl" style="width:400px" align=left>
   </p>
 
-  <br><br><br>
- 
    <img src="https://github-readme-stats.vercel.app/api?username=carlosdias-ctrl&show_icons=true&locale=en" alt ="carlosdias-ctrl" style="width:430px" align=right>
  
   
