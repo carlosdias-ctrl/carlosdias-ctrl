@@ -1,6 +1,6 @@
 ## Olá, sou o Carlos! :D ☕
   <p>
-   <img src="https://miro.medium.com/max/700/1*0FlvitTZnPKh8qkJ7UPLeQ.png" style="width:400px" align=right>
+   <img src="https://miro.medium.com/max/700/1*0FlvitTZnPKh8qkJ7UPLeQ.png" style="width:350px" align=right>
   <dl>
     <dd>💻 Graduando em Análise e Desenvolvimento de Sistemas ...</dd>
     <dd>🐍 Desbravando o python ...</dd>
