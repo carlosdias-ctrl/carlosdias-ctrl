@@ -8,7 +8,7 @@
   📚 Ler um bom livro é como conversar com as melhores mentes ...
   ⚡ apaixonado pela astronomia, amante da ficção cientifica, Guitarrista ...
   
-  <img src="https://preview.redd.it/bqhdno8fxd771.gif?width=640&crop=smart&format=png8&s=dbc8b7828d2f6b445f9b397fd276bd5358a82a2d" style="float:right;width:450px">
+  <img src="https://preview.redd.it/bqhdno8fxd771.gif?width=640&crop=smart&format=png8&s=dbc8b7828d2f6b445f9b397fd276bd5358a82a2d" style="float:right;width:400px">
 
 <br><br><br><br><br><br><br><br><br>
 
