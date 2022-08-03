@@ -10,11 +10,12 @@
     <dd>📚 Ler um bom livro é como conversar com as melhores mentes ...</dd>
     <dd>🤓 apaixonado pela astronomia, amante da ficção cientifica, Guitarrista ...</dd>
    </dl>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=carlosdias-ctrl&show_icons=true&locale=en&layout=compact" 
+  alt="carlosdias- ctrl" style="width:400px" align=right>
   </p>
   <hr>
   <br><br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=carlosdias-ctrl&show_icons=true&locale=en&layout=compact" 
-  alt="carlosdias- ctrl" style="width:400px" align=right>
+ 
    <img src="https://github-readme-stats.vercel.app/api?username=carlosdias-ctrl&show_icons=true&locale=en" alt ="carlosdias-ctrl" style="width:430px" align=right>
  
   
