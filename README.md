@@ -1,5 +1,6 @@
 ## Olá, sou o Carlos! :D ☕
-  
+  <p>
+   <img src="https://preview.redd.it/bqhdno8fxd771.gif?width=640&crop=smart&format=png8&s=dbc8b7828d2f6b445f9b397fd276bd5358a82a2d" style="width:400px" align=right>
   💻 Graduando em Análise e Desenvolvimento de Sistemas ...
   🐍 Desbravando o python ...
   🎲 Apaixonado pela área de dados ...
@@ -7,12 +8,10 @@
   💬 berseker3120@gmail.com ...
   📚 Ler um bom livro é como conversar com as melhores mentes ...
   ⚡ apaixonado pela astronomia, amante da ficção cientifica, Guitarrista ...
-  
-  <img src="https://preview.redd.it/bqhdno8fxd771.gif?width=640&crop=smart&format=png8&s=dbc8b7828d2f6b445f9b397fd276bd5358a82a2d" style="float:right;width:400px">
+  </p>
+  <img width=300 align="center" src="https://github-readme-stats.vercel.app/api?username=carlosdias-ctrl&show_icons=true&locale=en" alt ="carlosdias-ctrl">
+  <img width=300 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlosdias-ctrl&show_icons=true&locale=en&layout=compact" alt="carlosdias- ctrl" align=right>
 
-<br><br><br><br><br><br><br><br><br>
 
-<p><img width=300 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlosdias-ctrl&show_icons=true&locale=en&layout=compact" alt="carlosdias- ctrl" /></p>
 
-<p> <img width=350 align="center" src="https://github-readme-stats.vercel.app/api?username=carlosdias-ctrl&show_icons=true&locale=en" alt ="carlosdias-ctrl" /></p>
 
