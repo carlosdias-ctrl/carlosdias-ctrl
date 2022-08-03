@@ -15,7 +15,7 @@
   <br><br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=carlosdias-ctrl&show_icons=true&locale=en&layout=compact" 
   alt="carlosdias- ctrl" style="width:400px" align=right>
-   <img src="https://github-readme-stats.vercel.app/api?username=carlosdias-ctrl&show_icons=true&locale=en" alt ="carlosdias-ctrl" style="width:430px" align=left>
+   <img src="https://github-readme-stats.vercel.app/api?username=carlosdias-ctrl&show_icons=true&locale=en" alt ="carlosdias-ctrl" style="width:430px" align=right>
  
   
   
