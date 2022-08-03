@@ -1,6 +1,6 @@
 ## <center>_Olá, aceita uma xícara de café ?_ ☕</center>
 
-<!--
+
 **carlosdias-ctrl/carlosdias-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,4 +12,4 @@ Here are some ideas to get you started:
  #💬 berseker3120@gmail.com ...
  #📚 Ler um bom livro é como conversar com as melhores mentes ...
  #⚡ apaixonado pela astronomia, amante da ficção cientifica, Guitarrista ...
--->
+
