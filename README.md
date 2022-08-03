@@ -8,7 +8,7 @@
  * 📚 Ler um bom livro é como conversar com as melhores mentes ...
  * ⚡ apaixonado pela astronomia, amante da ficção cientifica, Guitarrista ...
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlosdias-ctrl&show_icons=true&locale=en&layout=compact" alt="carlosdias- ctrl" /></p>
+<p><img width=300 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlosdias-ctrl&show_icons=true&locale=en&layout=compact" alt="carlosdias- ctrl" /></p>
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=carlosdias-ctrl&show_icons=true&locale=en" alt ="carlosdias-ctrl" /></p>
+<p> <img width=350 align="center" src="https://github-readme-stats.vercel.app/api?username=carlosdias-ctrl&show_icons=true&locale=en" alt ="carlosdias-ctrl" /></p>
 
