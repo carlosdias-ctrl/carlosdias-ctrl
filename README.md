@@ -11,7 +11,7 @@
     <dd>🤓 apaixonado pela astronomia, amante da ficção cientifica, Guitarrista ...</dd>
    </dl>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=carlosdias-ctrl&show_icons=true&locale=en&layout=compact" 
-  alt="carlosdias- ctrl" style="width:400px" align=right>
+  alt="carlosdias- ctrl" style="width:400px" align=left>
   </p>
   <hr>
   <br><br><br>
