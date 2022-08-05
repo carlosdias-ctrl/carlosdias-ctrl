@@ -63,7 +63,7 @@ Tenho 22 anos, atualmente moro em Guaraí/TO e sou apaixonado por tecnologia! <b
 </a>
 </p>
 
-  
+ ![snake gif](https://github.com/carlosdias-ctrl/carlosdias-ctrl/blob/output/github-contribution-grid-snake.svg)
  
   
   
