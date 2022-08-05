@@ -5,15 +5,15 @@
 
 <div dsplay="inline-block">
  
- <h1 align="left">Olá, sou o Carlos Dias! :D</h1>
+ <h3 align="left">Olá, sou o Carlos Dias! :D</h3>
  <a href="https://www.instagram.com/__carlos.dias/">
-    <img align="left" width="80px" src="https://i.ibb.co/Pm3gpSS/icons8-instagram-logo-100.png" alt="instagram" style="vertical-align:top;">
+    <img align="left" width="60px" src="https://i.ibb.co/Pm3gpSS/icons8-instagram-logo-100.png" alt="instagram" style="vertical-align:top;">
   </a> 
   <a href="https://twitter.com/__carlos_dias">
-    <img align="left" width="80px" src="https://i.ibb.co/hgcMbwT/icons8-linkedin-logo-100.png" alt="twitter" style="vertical-align:top;">
+    <img align="left" width="60px" src="https://i.ibb.co/hgcMbwT/icons8-linkedin-logo-100.png" alt="twitter" style="vertical-align:top;">
   </a>
   <a href="https://www.linkedin.com/in/carlos-dias-3213911a0/">
-    <img width="80px" src="https://i.ibb.co/nkCPSrW/icons8-twitter-logo-100.png" alt="linkedin" style="vertical-align:top;">
+    <img width="60px" src="https://i.ibb.co/nkCPSrW/icons8-twitter-logo-100.png" alt="linkedin" style="vertical-align:top;">
   </a>
 </div>
 
