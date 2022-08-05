@@ -5,7 +5,7 @@
 
 <div dsplay="inline-block">
  
- <h3 align="left">Olá, sou o Carlos Dias! :D</h3>
+ <h2 align="left">Olá, sou o Carlos Dias! :D</h2>
  <a href="https://www.instagram.com/__carlos.dias/">
     <img align="left" width="60px" src="https://i.ibb.co/Pm3gpSS/icons8-instagram-logo-100.png" alt="instagram" style="vertical-align:top;">
   </a> 
