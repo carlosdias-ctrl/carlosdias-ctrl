@@ -26,7 +26,7 @@
 
 ## Café ? ☕
 
-Tenho 22 anos, atualmente moro em Guaraí/TO e sou apaixonado por tecnologia! estou graduando em Análise e Desenvolvimento de Sistemas, sou apaixonado pela área de dados e programação, estou desbravando o python ! 🐍
+Tenho 22 anos, atualmente moro em Guaraí/TO e sou apaixonado por tecnologia! <br>estou graduando em Análise e Desenvolvimento de Sistemas, sou apaixonado pela área de dados e programação, estou desbravando o python ! 🐍
 
 <p align="center">
   <img src=https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/82270e70-01a6-4570-8622-80a356bb7daa/d9s3qze-ad3eebda-f706-4e7c-b4a6-061ba32869cd.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sIm9iaiI6W1t7InBhdGgiOiIvZi84MjI3MGU3MC0wMWE2LTQ1NzAtODYyMi04MGEzNTZiYjdkYWEvZDlzM3F6ZS1hZDNlZWJkYS1mNzA2LTRlN2MtYjRhNi0wNjFiYTMyODY5Y2QuZ2lmIn1dXX0.6q2LsMwNd1Vuxd6wbykXGTKpL6z0T9Xnpa1_iuSnVWc>
