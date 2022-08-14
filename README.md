@@ -10,10 +10,10 @@
     <img align="left" width="60px" src="https://i.ibb.co/Pm3gpSS/icons8-instagram-logo-100.png" alt="instagram" style="vertical-align:top;">
   </a> 
   <a href="https://www.linkedin.com/in/carlos-dias-3213911a0/">
-    <img align="left" width="60px" src="https://i.ibb.co/hgcMbwT/icons8-linkedin-logo-100.png" alt="twitter" style="vertical-align:top;">
+    <img align="left" width="60px" src="https://i.ibb.co/hgcMbwT/icons8-linkedin-logo-100.png" alt="linkedin" style="vertical-align:top;">
   </a>
-  <a href="">
-    <img width="60px" src="https://i.ibb.co/nkCPSrW/icons8-twitter-logo-100.png" alt="linkedin" style="vertical-align:top;">
+  <a href="https://twitter.com/__Carlos_dias">
+    <img width="60px" src="https://i.ibb.co/nkCPSrW/icons8-twitter-logo-100.png" alt="twitter" style="vertical-align:top;">
   </a>
 </div>
 
