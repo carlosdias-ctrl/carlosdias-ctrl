@@ -1,4 +1,4 @@
-<img align="right" width="550px" style="margin-top:-20px" src="https://i.ibb.co/0QBM271/png-transparent-brain-artificial-neural-network-deep-learning-neuron-artificial-intelligence-human-b.png">
+<img align="right" width="500px" style="margin-top:-20px" src="https://i.ibb.co/0QBM271/png-transparent-brain-artificial-neural-network-deep-learning-neuron-artificial-intelligence-human-b.png">
 
 </br>
 </br>
