@@ -41,8 +41,7 @@ Tenho 22 anos, <br>estou graduando em Análise e Desenvolvimento de Sistemas <br
 </br>
 </br>
 <div display="inline-block">
- <p align="left">🐍 Tenho estudado o desenvolvimento de dashboards com Python;</p>
- <p align="left">🎲 Pretendo me aprofundar na área de dados;</p>
+ <p align="left">Estudo o desenvolvimento de aplicativos com Dart/Flutter;</p>
  <p align="left">“Tente uma, duas, três vezes e se possível tente a quarta, a quinta e quantas vezes for necessário. Só não desista nas primeiras tentativas, a persistência é amiga da conquista. Se você quer chegar aonde a maioria não chega, faça o que a maioria não faz.”</p>
 </div>
 
