@@ -26,7 +26,7 @@
 
 ## Café ? ☕
 
-Tenho 22 anos, <br>estou graduando em Análise e Desenvolvimento de Sistemas <br>sou apaixonado pela área de dados e programação, estou desbravando o python ! 🐍
+
 
 
 
