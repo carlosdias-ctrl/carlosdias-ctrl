@@ -38,7 +38,7 @@
 <h2>📫 Contato</h2>
 
 <p>
-  <a href="https://www.https://www.instagram.com/__carlos.dias/" target="_blank">
+  <a href="https://www.instagram.com/__carlos.dias/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" width="40" />
   </a>
   &nbsp;
