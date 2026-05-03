@@ -42,7 +42,7 @@
     <img src="https://skillicons.dev/icons?i=instagram" width="40" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/SEU_USUARIO" target="_blank">
+  <a href="https://www.linkedin.com/in/carlos-dias-3213911a0" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
   </a>
 </p>
